@@ -2,7 +2,6 @@
  * Due Date: December 13, 2021
  * Brexit Kattis Problem
  */
-
 #include <iostream>
 #include <vector>
 #include <queue>
